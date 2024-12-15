@@ -1,8 +1,8 @@
-# XMSG
+# Twitter Automation Example
 
 ## Table of contents
 
-- [XMSG](#xmsg)
+- [Twitter Automation Example](#twitter-automation-example)
   - [Table of contents](#table-of-contents)
   - [Getting started](#getting-started)
     - [Download](#download)
@@ -13,7 +13,7 @@
 
 ### Download
 
-To download this project, please do: `git clone https://github.com/tun43p/xmsg.git`.
+To download this project, please do: `git clone https://github.com/tun43p/twitter-automation-example.git`.
 
 ## Authors
 
